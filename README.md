@@ -1,5 +1,9 @@
 # mend
 
+[![make.fun](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/dhamskie-ai/mend-01/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/dhamskie-ai/mend-01/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+
 One patch tool for every AI edit format: `mend` applies an edit that an AI model wrote to a tree of text files — as a unified diff (even with wrong line numbers), SEARCH/REPLACE blocks, a V4A patch, or text-editor tool calls as JSON. Every file is changed or nothing is.
 
 `SPEC.md` is the whole specification.
